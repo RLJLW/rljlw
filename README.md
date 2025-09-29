@@ -24,7 +24,8 @@ https://www.spaceappschallenge.org/2025/challenges/
   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
 
 
-For more information on these view my Space Apps Resources Repo Page
+For more information on these view my Space Apps Resources Repo Page:
+https://github.com/RLJLW/spaceapps2025-resources
  
 ## I'm currently learning
 
