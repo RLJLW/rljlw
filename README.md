@@ -1,10 +1,20 @@
-## Hi there 👋
+## About
 
-- Im currently working on:
+## I'm currently working on:
 
-  Preparing for the NASA Space Apps Challenge 2025
+ - Preparing for the NASA Space Apps Challenge 2025
+ - Understanding NASA Data
+ - Learning Web3 and blockchain technologies
   
-- Im currently learning: Web3 Technologies, Smart Contracts, Solidity, Web 3 User Interfaces, Smart Contract Securit, NASA Datasets, Space Related Technology.
+## Im currently learning
+
+ - Web3 Technologies
+- Smart Contracts
+- Solidity
+- Web 3 User Interfaces
+- Smart Contract Securit
+- NASA Datasets
+- Space Related Technology.
 
 
 <!--
