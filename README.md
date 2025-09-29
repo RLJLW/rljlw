@@ -1,5 +1,9 @@
 ## About
 
+Full Stack Web Developer, C# ASP.NET, CSS, HTML5, SQL, Python, Solidity, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
+
+Looking for Remote Work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
+
 ## I'm currently working on:
 
  - Preparing for the NASA Space Apps Challenge 2025
@@ -9,6 +13,10 @@
 
 ##### Read more about NASA Space Apps 2025
 https://www.spaceappschallenge.org/2025/challenges/
+
+### Top Projects I'm considering
+
+ - 
 
 ## I'm currently learning
 
