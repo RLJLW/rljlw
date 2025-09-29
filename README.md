@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- Im currently working on:
+
+  Preparing for the NASA Space Apps Challenge 2025
+  
+- Im currently learning: Web3 Technologies, Smart Contracts, Solidity, Web 3 User Interfaces, Smart Contract Securit, NASA Datasets, Space Related Technology.
+
+
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
