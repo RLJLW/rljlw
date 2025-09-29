@@ -4,18 +4,15 @@
 
  - Preparing for the NASA Space Apps Challenge 2025
  - Understanding NASA Data
+ - Creating informational resources to explain and better understand the signficance of various Space Apps Projects
  - Learning Web3 and blockchain technologies
-  
-## Im currently learning
 
- - Web3 Technologies
-- Smart Contracts
-- Solidity
-- Web 3 User Interfaces
-- Smart Contract Securit
-- NASA Datasets
-- Space Related Technology.
+##### Read more about NASA Space Apps 2025
+https://www.spaceappschallenge.org/2025/challenges/
 
+## I'm currently learning
+
+Web3 Technologies, Smart Contracts, Solidity, Web 3 User Interfaces, Smart Contract Security, NASA Datasets, Space Related Technology.
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
