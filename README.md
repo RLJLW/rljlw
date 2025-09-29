@@ -1,6 +1,6 @@
 ## About
 
-Full Stack Web Developer, C# ASP.NET, CSS, HTML5, SQL, Python, Solidity, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
+Full Stack Web Developer, C# ASP.NET, CSS, HTML5, Javscript, SQL, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
 
 Looking for Remote Work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
@@ -30,7 +30,7 @@ https://github.com/RLJLW/spaceapps2025-resources
  
 ## I'm currently learning
 
-Web3 Technologies, Smart Contracts, Solidity, Web 3 User Interfaces, Smart Contract Security, NASA Datasets, Space Related Technology.
+Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
