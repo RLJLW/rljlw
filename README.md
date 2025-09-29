@@ -15,9 +15,17 @@ Looking for Remote Work, and to network with people interested in making an impa
 https://www.spaceappschallenge.org/2025/challenges/
 
 ### Top Projects I'm considering
+ 
+- BloomWatch: An Earth Observation Application for Global Flowering Phenology - 
+  Challenge URL: https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
+- Through the Radar Looking Glass: Revealing Earth Processes with SAR - 
+   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-glass-revealing-earth-processes-with-sar/
+- Meteor Madness - 
+  Challenge URL: https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
 
- - 
 
+For more information on these view my Space Apps Resources Repo Page
+ 
 ## I'm currently learning
 
 Web3 Technologies, Smart Contracts, Solidity, Web 3 User Interfaces, Smart Contract Security, NASA Datasets, Space Related Technology.
