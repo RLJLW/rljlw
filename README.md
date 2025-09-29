@@ -14,7 +14,7 @@ Looking for Remote Work, and to network with people interested in making an impa
 ##### Read more about NASA Space Apps 2025
 https://www.spaceappschallenge.org/2025/challenges/
 
-### Top Projects I'm considering
+### Top projects I'm considering
  
 - BloomWatch: An Earth Observation Application for Global Flowering Phenology - 
   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
@@ -24,7 +24,8 @@ https://www.spaceappschallenge.org/2025/challenges/
   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
 
 
-For more information on these view my Space Apps Resources Repo Page:
+For more information on these view my Github Space Apps 2025 Resources Page:
+
 https://github.com/RLJLW/spaceapps2025-resources
  
 ## I'm currently learning
