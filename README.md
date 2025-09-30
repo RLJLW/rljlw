@@ -18,7 +18,7 @@ https://github.com/RLJLW/spaceapps2025-resources
 ##### Read more about NASA Space Apps 2025
 https://www.spaceappschallenge.org/2025/challenges/
 
-### Top projects I'm considering
+### NASA Space Apps 2025 - Top projects I'm considering
  
 - BloomWatch: An Earth Observation Application for Global Flowering Phenology - 
   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
