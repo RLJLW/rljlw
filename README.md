@@ -2,7 +2,7 @@
 
 Full Stack Web Developer, C# ASP.NET, CSS, HTML5, Javscript, SQL, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
 
-Looking for Remote Work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
+Looking for remote work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
 You may also be interested in the Resources page I've created with the top 3 projects I'm considering and my thoughts on why they're important:
 
