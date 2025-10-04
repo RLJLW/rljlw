@@ -10,7 +10,7 @@ https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
 
- - Preparing for the NASA Space Apps Challenge 2025
+ - Taking Part in the NASA Space Apps Challenge 2025
  - Understanding NASA Data
  - Creating informational resources to explain and better understand the signficance of various Space Apps Projects
  - Learning Web3 and blockchain technologies
