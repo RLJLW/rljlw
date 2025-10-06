@@ -4,14 +4,15 @@ Full Stack Web Developer, C# ASP.NET, CSS, HTML5, Javscript, SQL, Python, Solidi
 
 Looking for remote work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
-You may also be interested in the Resources page I've created with the top 3 projects I'm considering and my thoughts on why they're important:
+You may also be interested in the Resources page I've created with the top 3 projects I considered for the NASA Space Apps Challenge (2025) and my thoughts on why they're important:
 
 https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
 
  - Looking at potential projects using NASA data
-   see: https://github.com/RLJLW/space-data-projects
+   <br />
+   More information: https://github.com/RLJLW/space-data-projects
  - Looking into applications of SAR (Synthetic Apperture Radar)
  - Looking at the NASA bolide database for meteor impact information and tools
  - Learning Web3 and blockchain technologies
