@@ -10,15 +10,21 @@ https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
 
- - Taking Part in the NASA Space Apps Challenge 2025
- - Understanding NASA Data
- - Creating informational resources to explain and better understand the signficance of various Space Apps Projects
+ - Looking at potential projects using NASA data
+   see: https://github.com/RLJLW/space-data-projects
+ - Looking into applications of SAR (Synthetic Apperture Radar)
+ - Looking at the NASA bolide database for meteor impact information and tools
  - Learning Web3 and blockchain technologies
+ 
+
+## I'm currently learning
+
+Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
 
 ##### Read more about NASA Space Apps 2025
 https://www.spaceappschallenge.org/2025/challenges/
 
-### NASA Space Apps 2025 - Top projects I'm considering
+### NASA Space Apps 2025 - Top projects I considered doing
  
 - BloomWatch: An Earth Observation Application for Global Flowering Phenology - 
   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
@@ -32,9 +38,7 @@ For more information on these view my Github Space Apps 2025 Resources Page:
 
 https://github.com/RLJLW/spaceapps2025-resources
  
-## I'm currently learning
 
-Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
