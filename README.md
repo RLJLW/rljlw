@@ -4,7 +4,8 @@ Full Stack Web Developer, C# ASP.NET, CSS, HTML5, Javscript, SQL, Python, Solidi
 
 Looking for remote work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
-Contact Me on Discord (discuss ideas, project ideas, potential work):
+Contact me on Discord (discuss ideas, project ideas, potential work):
+
 rjayl_28151
 
 You may also be interested in the Resources page I've created with the top 3 projects I considered for the NASA Space Apps Challenge (2025) and my thoughts on why they're important:
