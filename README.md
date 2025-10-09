@@ -14,6 +14,7 @@ https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
  - Processing SAR Files
+ - Doing research into orbit and properties of Comet C/2025 R2
  - Looking at potential projects using NASA data
    <br />
    More information: https://github.com/RLJLW/space-data-projects
