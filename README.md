@@ -13,7 +13,8 @@ You may also be interested in the Resources page I've created with the top 3 pro
 https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
- - Processing NASA impact (bolide) information and displaying a marker on Google Maps where the events occur - 2025/10/11
+ - Processing NASA impact (bolide) information and displaying a marker on Google Maps where the events occur
+ - Updating the look and feel of a website for space and science information and resources
  - Processing SAR Files
  - Doing research into orbit and properties of Comet C/2025 R2
  - Looking at potential projects using NASA data
