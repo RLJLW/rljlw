@@ -13,11 +13,11 @@ You may also be interested in the Resources page I've created with the top 3 pro
 https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
+ - Doing research on locations with high levels of water pollution that could be analyzed using remote sensing.
+ - Writing software to process high definition NASA hyperspectral surface reflectance files.
+  - Looking at ways of making NASA high definition hyperspectral surface reflectance files smaller and easier to access by a web interface.
  - Processing NASA impact (bolide) information and displaying a marker on Google Maps where the events occur
- - Updating the look and feel of a website for space and science information and resources
  - Processing SAR Files
- - Doing research into orbit and properties of Comet C/2025 R2
- - Looking at potential projects using NASA data
    <br />
    More information: https://github.com/RLJLW/space-data-projects
  - Looking into applications of SAR (Synthetic Apperture Radar)
