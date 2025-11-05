@@ -13,6 +13,9 @@ You may also be interested in the Resources page I've created with the top 3 pro
 https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
+ - Developing Synthetic Aperture Radar File Reading Tools
+ - Examining various locations with NASA UAVSAR file data to better understand how various send and receive polarizations can be used to understand different landscape types.
+ - Looking for data sets with flooding data to see how SAR data can be used to understand flooding.
  - Doing research on locations with high levels of water pollution that could be analyzed using remote sensing.
  - Writing software to process high definition NASA hyperspectral surface reflectance files.
   - Looking at ways of making NASA high definition hyperspectral surface reflectance files smaller and easier to access by a web interface.
@@ -29,6 +32,22 @@ https://github.com/RLJLW/spaceapps2025-resources
 
 Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
 
+## I'm looking to collaberate on projects relating to:
+ - Remote work with interesting projects
+ - Machine learning applications
+ - Web3 enabled websites using smart contracts
+ - The environment
+ - Education or educational tools
+ - Data processing tools
+ - Space based remote sensing data analysis
+ - Projects raising awareness about:
+   - space
+   - the environment
+   - pollution, especially oil spills, ocean plastics, other serious pollution
+   - disasters affecting people
+   - animal welfare
+
+<!--
 ##### Read more about NASA Space Apps 2025
 https://www.spaceappschallenge.org/2025/challenges/
 
@@ -45,7 +64,7 @@ https://www.spaceappschallenge.org/2025/challenges/
 For more information on these view my Github Space Apps 2025 Resources Page:
 
 https://github.com/RLJLW/spaceapps2025-resources
- 
+-->
 
 
 <!--
