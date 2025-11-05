@@ -1,6 +1,6 @@
 ## About
 
-Full Stack Web Developer, C# ASP.NET, CSS, HTML5, Javscript, SQL, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
+Full Stack Web Developer, C# with Classic ASP.NET, CSS, HTML5, Javascript, SQL, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
 
 Looking for remote work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
