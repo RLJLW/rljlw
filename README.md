@@ -41,11 +41,12 @@ Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smar
  - Data processing tools
  - Space based remote sensing data analysis
  - Projects raising awareness about:
-   - space
-   - the environment
-   - pollution, especially oil spills, ocean plastics, other serious pollution
-   - disasters affecting people
-   - animal welfare
+   - Space and Space Exploration
+   - Disasters affecting people
+   - Asteroid and Comet monitoring and risks analysis and mitigation   
+   - Animal welfare
+   - Pollution, especially oil spills, ocean plastics, other serious pollution
+   - The environment
 
 <!--
 ##### Read more about NASA Space Apps 2025
