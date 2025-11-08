@@ -14,7 +14,7 @@ https://github.com/RLJLW/spaceapps2025-resources
 
 ## I'm currently working on:
  - Developing Synthetic Aperture Radar File Reading Tools
- - Developing NASA EMIT File Reading Tools
+ - Developing EMIT Spectroscopy File Reading Tools
  - Examining various locations with NASA UAVSAR file data to better understand how various send and receive polarizations can be used to understand different landscape types.
  - Looking for data sets with flooding data to see how SAR data can be used to understand flooding.
  - Doing research on locations with high levels of water pollution that could be analyzed using remote sensing.
