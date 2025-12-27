@@ -6,9 +6,11 @@ Looking to network with people interested in making an impact, especially in fie
 
 ## I'm currently working on:
 
- - Developing Hyperspectral analysis software using NASA EMIT files.
- - Doing research on locations with high levels of oil and water pollution that could be analyzed using remote sensing.
+ - Work for my clients :)
  - Learning Web3 and Blockchain related technologies
+ - Developing hyperspectral analysis software using NASA EMIT files.
+ - Doing research on locations with high levels of oil and water pollution that could be analyzed using remote sensing.
+
 
 ## I'm currently learning
 
