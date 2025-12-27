@@ -8,14 +8,14 @@ Looking to network with people interested in making an impact, especially in fie
 
  - Work for clients
  - Investigating hosting company capabilities for websites and applications.
- - Learning Web3 and Blockchain related technologies
+ - Learning Web3 and blockchain related technologies
  - Developing hyperspectral analysis software using NASA EMIT files.
  - Doing research on locations with high levels of oil and water pollution that could be analyzed using remote sensing.
 
 
 ## I'm currently learning
 
-Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
+Web3 technologies, smart contracts, Solidity, Web3 user front-ends to call smart contracts (using Viem, ethers.js), smart contract security, NASA Datasets, space related technology.
 
 ## In the future, I'm looking to collaberate on projects relating to:
 
