@@ -2,38 +2,20 @@
 
 Full Stack Web Developer, C# with Classic ASP.NET, CSS, HTML5, Javascript, SQL, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Basic Node.js, Data analysis, Simulations. BSc ComSci
 
-Looking for remote work, and to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
-
-Contact me on Discord (discuss ideas, project ideas, potential work):
-
-rjayl_28151
-
-You may also be interested in the Resources page I've created with the top 3 projects I considered for the NASA Space Apps Challenge (2025) and my thoughts on why they're important:
-
-https://github.com/RLJLW/spaceapps2025-resources
+Looking to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, machine learning, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
 ## I'm currently working on:
- - Developing Synthetic Aperture Radar File Reading Tools
- - Developing EMIT Spectroscopy File Reading Tools
- - Examining various locations with NASA UAVSAR file data to better understand how various send and receive polarizations can be used to understand different landscape types.
- - Looking for data sets with flooding data to see how SAR data can be used to understand flooding.
- - Doing research on locations with high levels of water pollution that could be analyzed using remote sensing.
- - Writing software to process high definition NASA hyperspectral surface reflectance files.
-  - Looking at ways of making NASA high definition hyperspectral surface reflectance files smaller and easier to access by a web interface.
- - Processing NASA impact (bolide) information and displaying a marker on Google Maps where the events occur
- - Processing SAR Files
-   <br />
-   More information: https://github.com/RLJLW/space-data-projects
- - Looking into applications of SAR (Synthetic Apperture Radar)
- - Looking at the NASA bolide database for meteor impact information and tools
- - Learning Web3 and blockchain technologies
- 
+
+ - Developing Hyperspectral analysis software using NASA EMIT files.
+ - Doing research on locations with high levels of oil and water pollution that could be analyzed using remote sensing.
+ - Learning Web3 and Blockchain related technologies
 
 ## I'm currently learning
 
 Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
 
 ## I'm looking to collaberate on projects relating to:
+
  - Remote work with interesting projects
  - Machine learning applications
  - Web3 enabled websites using smart contracts
@@ -82,4 +64,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
