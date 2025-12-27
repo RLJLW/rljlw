@@ -15,7 +15,7 @@ Looking to network with people interested in making an impact, especially in fie
 
 ## I'm currently learning
 
-Web3 technologies, smart contracts, Solidity, Web3 user front-ends to call smart contracts (using Viem, ethers.js), smart contract security, NASA Datasets, space related technology.
+Web3 technologies, smart contracts, Solidity, Web3 user front-ends to call smart contracts (using Viem, ethers.js), smart contract security, NASA datasets, space related technology.
 
 ## In the future, I'm looking to collaberate on projects relating to:
 
