@@ -23,12 +23,13 @@ Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smar
  - Data processing tools
  - Space based remote sensing data analysis
  - Projects raising awareness about:
-   - Space and Space Exploration
-   - Disasters affecting people
-   - Asteroid and Comet monitoring and risks analysis and mitigation   
-   - Animal welfare
-   - Pollution, especially oil spills, ocean plastic, other serious pollution
    - The environment
+   - Pollution, especially oil spills, ocean plastic, other serious pollution
+   - Disasters affecting people
+   - Space and Space Exploration
+   - Asteroid and Comet monitoring and risks analysis and mitigation   
+   - Animal welfare 
+
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
