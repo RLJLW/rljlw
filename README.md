@@ -14,12 +14,11 @@ Looking to network with people interested in making an impact, especially in fie
 
 Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smart Contracts (using Viem, ethers.js), Smart Contract Security, NASA Datasets, Space Related Technology.
 
-## I'm looking to collaberate on projects relating to:
+## In the future, I'm looking to collaberate on projects relating to:
 
- - Remote work with interesting projects
+ - The environment and pollution detection or mitigation
  - Machine learning applications
  - Web3 enabled websites using smart contracts
- - The environment
  - Education or educational tools
  - Data processing tools
  - Space based remote sensing data analysis
@@ -28,28 +27,8 @@ Web3 Technologies, Smart Contracts, Solidity, Web 3 User Front-ends to call Smar
    - Disasters affecting people
    - Asteroid and Comet monitoring and risks analysis and mitigation   
    - Animal welfare
-   - Pollution, especially oil spills, ocean plastics, other serious pollution
+   - Pollution, especially oil spills, ocean plastic, other serious pollution
    - The environment
-
-<!--
-##### Read more about NASA Space Apps 2025
-https://www.spaceappschallenge.org/2025/challenges/
-
-### NASA Space Apps 2025 - Top projects I considered doing
- 
-- BloomWatch: An Earth Observation Application for Global Flowering Phenology - 
-  Challenge URL: https://www.spaceappschallenge.org/2025/challenges/bloomwatch-an-earth-observation-application-for-global-flowering-phenology/
-- Through the Radar Looking Glass: Revealing Earth Processes with SAR - 
-   Challenge URL: https://www.spaceappschallenge.org/2025/challenges/through-the-radar-looking-glass-revealing-earth-processes-with-sar/
-- Meteor Madness - 
-  Challenge URL: https://www.spaceappschallenge.org/2025/challenges/meteor-madness/
-
-
-For more information on these view my Github Space Apps 2025 Resources Page:
-
-https://github.com/RLJLW/spaceapps2025-resources
--->
-
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
