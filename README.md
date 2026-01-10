@@ -7,7 +7,7 @@ Looking to network with people interested in making an impact, especially in fie
 ## I'm currently working on:
 
  - Work for clients
- - HTML/CSS designs and updates
+ - HTML / CSS designs and updates
  - Node.js servers (including Express)
  - Investigating hosting company capabilities for websites and applications
  - Learning Web3 and blockchain related technologies
