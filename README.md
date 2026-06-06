@@ -1,14 +1,15 @@
 ## About
 
-Full Stack Web Developer, C# with Classic ASP.NET, CSS, HTML5, Javascript, SQL, Node.js, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations. BSc ComSci
+Full Stack Web Developer, C# with Classic ASP.NET, CSS, HTML5, Javascript, SQL, Node.js, JSON, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations. BSc ComSci
 
 Looking to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, machine learning, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
 
 ## I'm currently working on:
 
  - Work for clients
+ - ERC Standards and their applications (ERC721/ERC1155/ERC3525...)
  - HTML / CSS designs and updates
- - Node.js servers (including Express)
+ - Node.js servers (including Express and EJS)
  - Investigating hosting company capabilities for websites and applications
  - Learning Web3 and blockchain related technologies
  - Developing hyperspectral analysis software using NASA EMIT files
