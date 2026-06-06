@@ -7,7 +7,7 @@ Looking to network with people interested in making an impact, especially in fie
 ## I'm currently working on:
 
  - Work for clients
- - ERC Standards and their applications (ERC721/ERC1155/ERC3525...)
+ - Smart Contract Research / ERC Standards and their applications (ERC721/ERC1155/ERC3525...)
  - HTML / CSS designs and updates
  - Node.js servers (including Express and EJS)
  - Investigating hosting company capabilities for websites and applications
