@@ -2,11 +2,11 @@
 
 Full Stack Web Developer, BSc ComSci. Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with Classic ASP.NET, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations. Current Focus: Gaining more experience using and developing high performance Node.js websites on Linux VPS servers and developing Web3 based applications.
 
-I'm looking to network with you and hear more about your project, and work together if it is a good fit, focusing on remote work ideally.
+Looking to network with you and hear more about your project, and work together if it is a good fit. Preference for remote work but open to other types of work also.
 
 Interested in web3 technologies, machine learning, environmental projects or animal welfare, projects in the space industry and space exploration.
 
-## I'm currently working on:
+## Currently working on:
 
  - Work for clients
  - Node.js servers (including Express and EJS) with MySQL databases.
