@@ -15,11 +15,11 @@ Interested in web3 technologies, machine learning, environmental projects or ani
  - HTML / CSS designs and updates. 
  - Learning Web3 and blockchain related technologies
  
-## I'm currently learning
+## Currently learning
 
 Web3 technologies, smart contracts, Solidity, Web3 user front-ends to call smart contracts (using Viem, ethers.js), smart contract security, NASA datasets, space related technology.
 
-## In the future, I'm looking to collaberate on projects relating to:
+## In the future, looking to collaberate on projects relating to:
  
  - Data processing tools
  - Education or educational tools
