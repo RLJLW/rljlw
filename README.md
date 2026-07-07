@@ -1,31 +1,31 @@
 ## About
 
-Full Stack Web Developer, C# with Classic ASP.NET, CSS, HTML5, Javascript, SQL, Node.js, JSON, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations. BSc ComSci
+Full Stack Web Developer, BSc ComSci. Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with Classic ASP.NET, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations. Current Focus: Gaining more experience using and developing high performance Node.js websites on Linux VPS servers and developing Web3 based applications.
 
-Looking to network with people interested in making an impact, especially in fields relating to useful and impactful applications, web3 technologies, machine learning, environmental projects or animal welfare, and especially projects related to the space industry and space exploration.
+I'm looking to network with you and hear more about your project, and work together if it is a good fit, focusing on remote work ideally.
+
+Interested in web3 technologies, machine learning, environmental projects or animal welfare, projects in the space industry and space exploration.
 
 ## I'm currently working on:
 
  - Work for clients
+ - Node.js servers (including Express and EJS) with MySQL databases.
  - Smart Contract Research / ERC Standards and their applications (ERC-20/ERC-721/ERC-1155/ERC-3525...)
- - HTML / CSS designs and updates
- - Node.js servers (including Express and EJS)
- - Investigating hosting company capabilities for websites and applications
+ - Linux VPS Hosting, and performance checking, visits analysis
+ - HTML / CSS designs and updates. 
  - Learning Web3 and blockchain related technologies
- - Developing hyperspectral analysis software using NASA EMIT files
- - Doing research on locations with high levels of oil and water pollution that could be analyzed using remote sensing
-
+ 
 ## I'm currently learning
 
 Web3 technologies, smart contracts, Solidity, Web3 user front-ends to call smart contracts (using Viem, ethers.js), smart contract security, NASA datasets, space related technology.
 
 ## In the future, I'm looking to collaberate on projects relating to:
-
+ 
+ - Data processing tools
+ - Education or educational tools
+ - Web3 enabled websites using smart contracts 
  - The environment and pollution detection or mitigation
  - Machine learning applications
- - Web3 enabled websites using smart contracts
- - Education or educational tools
- - Data processing tools
  - Space based remote sensing data analysis
  - Projects raising awareness about:
    - The environment
