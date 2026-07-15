@@ -9,10 +9,12 @@ Interested in web3 technologies, machine learning, environmental projects or ani
 ## Currently working on:
 
  - Work for clients
- - Node.js servers (including Express and EJS) with MySQL databases.
+ - Learning more about Neo4J
+ - Building experience in Linux and Linux server management
+ - Node.js servers (including Express and EJS) with MySQL databases
  - Smart Contract Research / ERC Standards and their applications (ERC-20/ERC-721/ERC-1155/ERC-3525...)
  - Linux VPS Hosting, and performance checking, visits analysis
- - HTML / CSS designs and updates. 
+ - HTML / CSS designs and updates 
  - Learning Web3 and blockchain related technologies
  
 ## Currently learning
