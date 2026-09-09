@@ -9,8 +9,7 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
  - Neo4J Graphing, and Graph databases
  - Linux VPS Hosting and Server Management
  - Node.js Applications (Express / EJS) with MySQL Databases
- - Smart Contract Research / ERC Standards and their applications (ERC-20/ERC-721/ERC-1155/ERC-3525...)
- - HTML / CSS designs and updates 
+  - HTML / CSS designs and updates 
   
 ## In the future, looking to collaberate on projects relating to:
  
