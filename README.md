@@ -1,15 +1,15 @@
 ## About
+Senior Full-Stack Engineer / Data and Database Engineer with 15+ years of experience designing, deploying and maintaining web applications, database architectures and server infrastructure.
 
-Full Stack Web Developer, BSc ComSci. Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with Classic ASP.NET, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations.
+Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Solidity, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations.
 
 ## Currently working on:
 
  - ERC-20, ERC-721 Custom tokens
  - Neo4J Graphing, and Graph databases
- - Linux server management
- - Node.js Applications (Express / EJS) with MySQL databases
+ - Linux VPS Hosting and Server Management
+ - Node.js Applications (Express / EJS) with MySQL Databases
  - Smart Contract Research / ERC Standards and their applications (ERC-20/ERC-721/ERC-1155/ERC-3525...)
- - Linux VPS Hosting, and performance checking, visits analysis
  - HTML / CSS designs and updates 
   
 ## In the future, looking to collaberate on projects relating to:
