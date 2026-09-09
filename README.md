@@ -1,26 +1,17 @@
 ## About
 
-Full Stack Web Developer, BSc ComSci. Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with Classic ASP.NET, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations. Current Focus: Gaining more experience using and developing high performance Node.js websites on Linux VPS servers and developing Web3 based applications.
-
-Looking to network with you and hear more about your project, and work together if it is a good fit. Preference for remote work but open to other types of work also.
-
-Interested in web3 technologies, machine learning, environmental projects or animal welfare, projects in the space industry and space exploration.
+Full Stack Web Developer, BSc ComSci. Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with Classic ASP.NET, Python, Solidity, Viem, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations.
 
 ## Currently working on:
 
- - Work for clients
- - Learning more about Neo4J
- - Building experience in Linux and Linux server management
- - Node.js servers (including Express and EJS) with MySQL databases
+ - ERC-20, ERC-721 Custom tokens
+ - Neo4J Graphing, and Graph databases
+ - Linux server management
+ - Node.js Applications (Express / EJS) with MySQL databases
  - Smart Contract Research / ERC Standards and their applications (ERC-20/ERC-721/ERC-1155/ERC-3525...)
  - Linux VPS Hosting, and performance checking, visits analysis
  - HTML / CSS designs and updates 
- - Learning Web3 and blockchain related technologies
- 
-## Currently learning
-
-Web3 technologies, smart contracts, Solidity, Web3 user front-ends to call smart contracts (using Viem, ethers.js), smart contract security, NASA datasets, space related technology.
-
+  
 ## In the future, looking to collaberate on projects relating to:
  
  - Data processing tools
