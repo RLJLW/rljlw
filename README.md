@@ -27,9 +27,15 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
    - Asteroid and Comet monitoring and risks analysis and mitigation   
    - Animal welfare 
 
-Image
+## Graph Databases
+
+Complex Data and Relationships can be mapped in Neo4j graph databases.
+
+Here is a visualization I made using Neo4j, showing how languages are used in Coding, Databases and Blockchains.
 
 ![Coding Languages](images/Languages-Diagram.png)
+
+Visualization by RLJLW, using Neo4J, with AuraDB
 
 
 <!--
