@@ -28,7 +28,8 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
    - Animal welfare 
 
 Image
-<img src="../images/Languages-Diagram.png" />
+
+<img src="images/Languages-Diagram.png" />
 
 
 <!--
