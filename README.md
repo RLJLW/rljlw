@@ -29,7 +29,7 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
 
 Image
 
-<img src="images/Languages-Diagram.png" />
+![Coding Languages](images/Languages-Diagram.png)
 
 
 <!--
