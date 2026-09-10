@@ -27,6 +27,9 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
    - Asteroid and Comet monitoring and risks analysis and mitigation   
    - Animal welfare 
 
+Image
+<img src="../images/Languages-Diagram.png" />
+
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
