@@ -37,6 +37,9 @@ Here is a visualization I made using Neo4j, showing how languages are used in Co
 
 Visualization by RLJLW, using Neo4J, with AuraDB
 
+The above is represents a Neo4J database of nodes and relationships that can be queried using the query language, Cypher.
+
+
 
 <!--
 **RLJLW/rljlw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
