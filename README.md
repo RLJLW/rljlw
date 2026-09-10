@@ -37,7 +37,7 @@ Here is a visualization I made using Neo4j, showing how languages are used in Co
 
 Visualization by RLJLW, using Neo4J, with AuraDB
 
-The above is represents a Neo4J database of nodes and relationships that can be queried using the query language, Cypher.
+The above is represents a Neo4j database of nodes and relationships that can be queried using the query language, Cypher.
 
 
 
