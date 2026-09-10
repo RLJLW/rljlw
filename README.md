@@ -3,30 +3,33 @@ Senior Full-Stack Engineer / Data and Database Engineer with 15+ years of experi
 
 Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Solidity, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations.
 
-## Currently working on:
+## Currently Working with / Activity:
 
- - ERC-20, ERC-721 Custom tokens
- - Neo4J Graphing, and Graph databases
- - Linux VPS Hosting and Server Management
+ - Smart Contract Development, including with ERC-20 Custom Tokens
+ - Forge / Forge Tests simulating user interaction with Smart Contracts
+ - Neo4J Graphing, and Graph databases (Cypher Language, AuraDB)
+ - Linux VPS Hosting and Server Management 
  - Node.js Applications (Express / EJS) with MySQL Databases
- - HTML / CSS designs and updates 
-  
-## In the future, looking to collaberate on projects relating to:
+ - HTML / CSS Designs and Updates 
  
- - Data processing tools
- - Education or educational tools
- - Web3 enabled websites using smart contracts 
- - The environment and pollution detection or mitigation
- - Machine learning applications
- - Space based remote sensing data analysis
+## In the future, looking to collaberate and work on projects relating to:
+ 
+ - HTML / CSS Website Development
+ - Data Processing Tools
+ - Node Graph Databases and Real World Object and System Relationship Mapping with optional Visualizations (Neo4j & Cypher)
+ - Queries of Complex Relationships in Node Based Data (Neo4j via Cypher queries) to better understand Systems and Relationships between entities
+ - Education or Educational tools
+ - The Environment and pollution detection or mitigation
+ - Machine Learning applications
+ - Space based Remote Sensing Data Analysis
  - Projects raising awareness about:
-   - The environment
+   - The Environment
    - Pollution, especially oil spills, ocean plastic, other serious pollution
-   - Disasters affecting people
    - Space and Space Exploration
-   - Asteroid and Comet monitoring and risks analysis and mitigation   
+   - Disasters affecting people
    - Animal welfare 
-
+   
+    
 ## Graph Databases
 
 Complex Data and Relationships can be mapped in Neo4j graph databases.
