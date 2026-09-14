@@ -32,7 +32,7 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
     
 ## Recent Work with Graph Databases
 
-Here is a visualization I made using Neo4j, showing how languages are used in Coding, Databases and Blockchains.
+Here is a visualization I made using Neo4j, showing how languages are used in coding, databases and blockchains.
 
 ![Coding Languages](images/Languages-Diagram.png)
 
