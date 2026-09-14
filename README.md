@@ -32,8 +32,6 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
     
 ## Recent Work with Graph Databases
 
-Complex Data and Relationships can be mapped in Neo4j graph databases.
-
 Here is a visualization I made using Neo4j, showing how languages are used in Coding, Databases and Blockchains.
 
 ![Coding Languages](images/Languages-Diagram.png)
@@ -41,7 +39,6 @@ Here is a visualization I made using Neo4j, showing how languages are used in Co
 Visualization by RLJLW, using Neo4J, with AuraDB
 
 The above is represents a Neo4j database of nodes and relationships that can be queried using the query language, Cypher.
-
 
 
 <!--
