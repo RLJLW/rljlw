@@ -5,7 +5,8 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
 
 ## Currently Working with / Activity:
 
- - Smart Contract Development, including with ERC-20 Custom Tokens
+ - Smart Contract Development, DeSci Data Applications Research with Smart Contracts
+ - Research and Testing with ERC-20 / ERC-721 and their Applications
  - Forge / Forge Tests simulating user interaction with Smart Contracts
  - Neo4J Graphing, and Graph databases (Cypher Language, AuraDB)
  - Linux VPS Hosting and Server Management 
