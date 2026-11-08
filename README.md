@@ -4,7 +4,7 @@ Senior Full-Stack Engineer / Data and Database Engineer with 15+ years of experi
 Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Solidity, ethers.js, Basic Tensor Flow, Basic ML, Data analysis, Simulations.
 
 ## Currently Working with / Activity:
- - n8n WorkFlows and Simple Chat experiences interfacing and pulling data from server API to use in chat
+ - n8n WorkFlows and Simple Chat experiences interfacing and returning different data to users depending on keywords in chat, using internal server data APIs to get data and formatting back into chat responses
  - Node.js Data RESTFUL data API's for external system to query internal server data
  - Using OpenSSL for investigation into complex SSL certificate chain tracing to diagnose certificate issues
  - Smart Contract Development, DeSci Data Applications Research with Smart Contracts
