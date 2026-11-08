@@ -34,7 +34,7 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
    - Pollution, especially oil spills, ocean plastic, other serious pollution
    - Space and Space Exploration
    - Disasters affecting people
-   - Animal welfare 
+   - Animal Welfare 
    
     
 ## Recent Work with Graph Databases
