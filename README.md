@@ -5,8 +5,8 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
 
 ## Currently Working with / Activity:
  - n8n WorkFlows and Simple Chat experiences interfacing and returning different data to users depending on keywords in chat, using internal server data APIs to get data and formatting back into chat responses
- - Node.js Data RESTFUL data API's for external system to query internal server data
- - Using OpenSSL for investigation into complex SSL certificate chain tracing to diagnose certificate issues
+ - Node.js Data RESTFUL data API's for external systems (like a Chat workflow, or data report) to query internal server data
+ - Using OpenSSL for investigation into complex SSL certificate chain tracing and verification to diagnose certificate issues for websites with SSL issues
  - Smart Contract Development, DeSci Data Applications Research with Smart Contracts
  - Research and Testing with ERC-20 / ERC-721 and their Applications
  - Forge / Forge Tests simulating user interaction with Smart Contracts
