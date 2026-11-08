@@ -19,11 +19,15 @@ Experience with SQL, Node.js, JSON, HTML5, CSS, Javascript, C# with ASP.NET, Sol
  
  - HTML / CSS Website Development
  - Data Processing Tools
+ - n8n Workflows / Automation scripts to save Organizations time
+ - Building API's to return Organization / Project data for other systems to use
+ - Server Monitoring Tools that can detect changes or internal issues that can affect users
+ - Chat Experiences that know about internal organization data using that can query organization data APIs
  - Node Graph Databases and Real World Object and System Relationship Mapping with optional Visualizations (Neo4j & Cypher)
  - Queries of Complex Relationships in Node Based Data (Neo4j via Cypher queries) to better understand Systems and Relationships between entities
  - Education or Educational tools
- - The Environment and pollution detection or mitigation
- - Machine Learning applications
+ - The Environment and Pollution Detection or Mitigation
+ - Machine Learning Applications
  - Space based Remote Sensing Data Analysis
  - Projects raising awareness about:
    - The Environment
