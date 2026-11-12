@@ -1,8 +1,8 @@
 ## About
 Senior Full-Stack Engineer / Data and Database Engineer with 15+ years of experience designing, deploying and maintaining web applications, database architectures and server infrastructure.
 
-Highly Experienced with SQL (SQL Server, MySQL), Data Analysis (design and queries) Node.js (including Express and EJS), JSON, HTML5, CSS, Javascript.
-Experienced with n8n, RESTFUL APIs, Solidity, Forge, Anvil, ethers.js, Basic Tensor Flow, Basic ML.
+Highly experienced with SQL (SQL Server, MySQL), Data Analysis (design and queries), Node.js (including Express and EJS), JSON, HTML5, CSS, Javascript.
+Experienced with n8n, RESTFUL APIs, Solidity, Forge, Anvil, ethers.js, Basic Tensor Flow, Basic ML, Basic Java.
 
 ## Currently Working with / Activity:
  - n8n workFlows and chat experiences interfacing and returning server based data to users depending on keywords in chat, using internal server data APIs to get data and formatting back into chat responses
